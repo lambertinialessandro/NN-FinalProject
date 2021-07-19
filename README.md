@@ -13,15 +13,14 @@ Final project for the course of Neural Networks 2020/2021.
 
 ## 💾 Dataset
 
-ATLAS [Link 🔗](http://fcon_1000.projects.nitrc.org/indi/retro/atlas.html)
+-   ATLAS [Link 🔗](http://fcon_1000.projects.nitrc.org/indi/retro/atlas.html)
 
 ## 📜 Report
 
-presentation [Link 🔗](./1938388_1938390%20presentation.pdf)
-<br />
-report [Link 🔗](./1938388_1938390%20report.pdf)
-<br />
-In these files you can read more about the code and the resoult of the project.
+-   presentation [Link 🔗](./1938388_1938390%20presentation.pdf)
+-   report [Link 🔗](./1938388_1938390%20report.pdf)
+
+    In these files you can read more about the code and the resoult of the project.
 
 ## 💯 Final score:
 
