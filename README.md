@@ -20,7 +20,7 @@ Final project for the course of Neural Networks 2020/2021.
 -   presentation [Link 🔗](./1938388_1938390%20presentation.pdf)
 -   report [Link 🔗](./1938388_1938390%20report.pdf)
 
-    In these files you can read more about the code and the resoult of the project.
+    In these files you can read more about the code and the result of the project.
 
 ## 💯 Final score:
 
