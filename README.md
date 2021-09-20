@@ -24,7 +24,7 @@ Final project for the course of Neural Networks 2020/2021.
 
 ## 💯 Final score:
 
-Score: `30L`
+Score: `30L/30`
 
 ## 🙋 Info
 
