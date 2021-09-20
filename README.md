@@ -1,4 +1,7 @@
 # 2021 NN Final Project
+<p align="center">
+    <img src="./images/title.png"></img>
+</p>
 
 Final project for the course of Neural Networks 2020/2021.
 
@@ -32,3 +35,23 @@ for any doubt or clarification contact me on:
 
 -   send me an email at: lambertini.1938390@studenti.uniroma1.it
 -   send me a DM on instagram [Link 🔗](https://www.instagram.com/lambertinialessandro/)
+
+## 🎞️ Snapshots
+
+<p align="center">
+    <img src="./images/result1.png"></img>
+    <br>
+    random sample output from X-Net with FSM
+</p>
+
+<p align="center">
+    <img src="./images/result2.png"></img>
+    <br>
+    random sample output from X-Net without FSM
+</p>
+
+<p align="center">
+    <img src="./images/metrics.png"></img>
+    <br>
+    Comparisons between different models
+</p>
