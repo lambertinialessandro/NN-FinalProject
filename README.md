@@ -12,7 +12,11 @@ Final project for the course of Neural Networks 2020/2021.
 ## 📝 Assignment
 
 1.	Reimplement the network in the Paper [Link 🔗](https://arxiv.org/abs/1907.07000) (Github page of the paper [Link 🔗](https://github.com/Andrewsher/X-Net))
+    -   [NN]X-Net.ipynb [Open In Collab 🔗](https://colab.research.google.com/github/lambertinialessandro/NN-FinalProject/blob/main/[NN]X-Net.ipynb)
 2.  Reimplement the same network but in the Quaternion domain.
+    -   [NN]X-Net quaternions.ipynb [Open In Collab 🔗](https://colab.research.google.com/github/lambertinialessandro/NN-FinalProject/blob/main/[NN]X-Net%20quaternions.ipynb)
+
+
 
 ## 💾 Dataset
 
